@@ -1,3 +1,6 @@
+
+= Linux Ag Yonetimi
+
 * komut -h komutu hakkında kısa bilgi verir
 
 * ls komutu bulunduğun dizinin içeriğini gösterir.
