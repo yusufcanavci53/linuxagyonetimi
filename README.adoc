@@ -1,0 +1,55 @@
+* komut -h komutu hakkında kısa bilgi verir
+
+* ls komutu bulunduğun dizinin içeriğini gösterir.
+
+* cd yol komutu yol dizinine gider.
+
+
+- cd.. komutu bir üst dizine gider.
+
+- mkdir dizin komutu yeni dizin oluşturur.
+- rm dosya komutu dosyayı kaldırır.
+
+TIP: Soru ve görüşlerinize açığız.
+
+IMPORTANT: Izinsiz paylaşmayınız.
+
+WARNING: Yazılardan yazarlar sorumludur sitemiz değil.
+
+
+https://www.kali.org/
+
+link:++www.kali.org/?q=[a b]++[kali web sitesi]
+
+link:index.html[Docs]
+
+https://www.kali.org/[Kali, role="external", window="_blank"]
+
+
+.hello.cpp
+[source,c++]
+----
+int main() 
+{
+    cout << "Hello, World!";
+    return 0;
+}
+----
+
+
+.Programlama Dilleri
+|===
+|Nesneye Yönelik |Yapısal  
+
+|Java
+|C++
+|PHP
+
+|C
+|C++
+|Java
+|===
+
+
+
+
